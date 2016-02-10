@@ -1,4 +1,5 @@
 # Help menu for the The Arc's Galdur server.
+# Help menu for the The Arc's Galdur server.
 index-topics:
   Default:
     shortText: "&eWelcome to Galdur!&7"
@@ -102,3 +103,27 @@ general-topics:
         Memory: 100
         Automatic spells: spellbook, teach, tome.
         Attained by: Completion of an approved masterwork, and collecting 100 magical research points.
+Movecraft:
+   shortText: "&eMoveCraft Comands&7:"
+   fullText
+        "&6release&f" Release you craft
+        "&6manoverboard&f" If you fall off your ship do this to return 
+Moving Ships 
+   shortText: "&eSaling&f" 
+   fullText 
+       Place a sing with the Craft name.
+       Place a sing with [helm] and right click it.
+       Right click the sing with the craft name then right click the diraction you wish to do with a compass.
+       To change the direction your craft is facsing right click or left click the [helm] sing wich will chnage in to some lines.
+       For ships "&eCog&7" and Up words place a sing with cruise: OFF then right click and you away. Right click again to stop.
+Longboat
+   shortText: "&eLongboat&7" 
+   fullText: 
+       The smallest ship. Only needing ten blocks of wood.
+       Desinged for rivers and short distancays with no auto pilot
+Cog
+    shortText: "&eCog&7"
+    fullText:
+       The ship up from "&eLongboat&7". This ship needs a Sail 
+       Can use cruise from "&eSaling&f".
+       
