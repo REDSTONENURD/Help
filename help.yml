@@ -108,7 +108,7 @@ Movecraft:
    fullText
         "&6release&f" Release you craft
         "&6manoverboard&f" If you fall off your ship do this to return 
-Moving Ships 
+Moving Ships: 
    shortText: "&eSaling&f" 
    fullText 
        Place a sing with the Craft name.
@@ -116,12 +116,12 @@ Moving Ships
        Right click the sing with the craft name then right click the diraction you wish to do with a compass.
        To change the direction your craft is facsing right click or left click the [helm] sing wich will chnage in to some lines.
        For ships "&eCog&7" and Up words place a sing with cruise: OFF then right click and you away. Right click again to stop.
-Longboat
+Longboat:
    shortText: "&eLongboat&7" 
    fullText: 
        The smallest ship. Only needing ten blocks of wood.
        Desinged for rivers and short distancays with no auto pilot
-Cog
+Cog:
     shortText: "&eCog&7"
     fullText:
        The ship up from "&eLongboat&7". This ship needs a Sail 
