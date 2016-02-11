@@ -102,7 +102,12 @@ general-topics:
         Memory: 100
         Automatic spells: spellbook, teach, tome.
         Attained by: Completion of an approved masterwork, and collecting 100 magical research points.
-Movecraft:
+# Movecrft 
+  Movecraft:
+   shortText: "&eGaldur's Ships&7"
+   fullText: |
+       The guild to ships on Galdur!
+Comands:
    shortText: "&eMoveCraft Comands&7:"
    fullText: |
         "&6release&f" Release you craft
@@ -115,15 +120,9 @@ Moving Ships:
        Right click the sing with the craft name then right click the diraction you wish to do with a compass.
        To change the direction your craft is facsing right click or left click the [helm] sing wich will chnage in to some lines.
        For ships "&eCog&7" and Up words place a sing with cruise: OFF then right click and you away. Right click again to stop.
-Longboat:
-   shortText: "&eLongboat&7" 
+ 
+Types:
+   shortText: "&eShip Types&f"
    fullText: |
-       The smallest ship. Only needing ten blocks of wood.
-       Desinged for rivers and short distancays with no auto pilot
-Cog:
-    shortText: "&eCog&7"
-    fullText: |
-       The ship up from "&eLongboat&7". This ship needs a Sail 
-       Can use cruise from "&eSaling&f".
-       The max size of a Cog is 2,500
-       Can suport limited Canions 
+       Go to "&ehttps://github.com/InclusiveRec/Ships/tree/master/types&f"
+       for the full list and infomation.
