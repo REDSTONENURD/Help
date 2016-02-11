@@ -104,12 +104,12 @@ general-topics:
         Attained by: Completion of an approved masterwork, and collecting 100 magical research points.
 Movecraft:
    shortText: "&eMoveCraft Comands&7:"
-   fullText
+   fullText: |
         "&6release&f" Release you craft
         "&6manoverboard&f" If you fall off your ship do this to return 
 Moving Ships: 
    shortText: "&eSaling&f" 
-   fullText 
+   fullText: |
        Place a sing with the Craft name.
        Place a sing with [helm] and right click it.
        Right click the sing with the craft name then right click the diraction you wish to do with a compass.
@@ -117,12 +117,12 @@ Moving Ships:
        For ships "&eCog&7" and Up words place a sing with cruise: OFF then right click and you away. Right click again to stop.
 Longboat:
    shortText: "&eLongboat&7" 
-   fullText: 
+   fullText: |
        The smallest ship. Only needing ten blocks of wood.
        Desinged for rivers and short distancays with no auto pilot
 Cog:
     shortText: "&eCog&7"
-    fullText:
+    fullText: |
        The ship up from "&eLongboat&7". This ship needs a Sail 
        Can use cruise from "&eSaling&f".
        The max size of a Cog is 2,500
